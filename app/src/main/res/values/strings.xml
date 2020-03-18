@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">CampGladiator</string>
+    <string name="search_place">Search place</string>
+    <string name="google_map_key">AIzaSyCoTtjcjmdxpaI6jIx1fLHgPNACdpCChK0</string>
+    <string name="map_key">AIzaSyB2EnNXxO1MGoeux4c3f0KcGuAtGSBdVDs</string>
+</resources>
+
